@@ -11,7 +11,7 @@ Idea was to create a framework for future FSMs, and to get experience developing
 
 --WORK IN PROGRESS-- 
 //unfinished//
--this github repo
+-this github repo (cleaner, schematic, optional additions)
 -Error switching from the alarm state 
 -implementing an amplifier + speaker (vs piezo) for much louder alarms
 -event handling through interrupts 
